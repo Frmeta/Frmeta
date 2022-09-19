@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Frmeta
-- 👀 I’m interested in unity C# and art!
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on game jam!
-- 📫 How to reach me: (discord) Fredd#9839
 
 <!---
 Frmeta/Frmeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
